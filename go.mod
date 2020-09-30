@@ -7,6 +7,7 @@ require (
 	github.com/elsaland/quickjs v0.0.0-20200926030524-a9835b20920b
 	github.com/evanw/esbuild v0.7.3-0.20200919185132-ef34da4ee06e
 	github.com/fatih/color v1.9.0
+	github.com/franela/goblin v0.0.0-20200825194134-80c0062ed6cd
 	github.com/go-bindata/go-bindata v3.1.2+incompatible
 	github.com/imroc/req v0.3.0
 	github.com/logrusorgru/aurora v2.0.3+incompatible
